@@ -1,0 +1,4 @@
+user
+nana - 12345
+admin
+kobby - 12345678
